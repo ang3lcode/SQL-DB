@@ -1,7 +1,4 @@
-/*
-SELECT
-*/
-
+-- SELECT
 
 
 -- obtiene todos los datos de la tabla "users"
@@ -21,5 +18,3 @@ SELECT user_id, name FROM users;
 /* cuando quiera traer mas de una columna 
 se agrega los nombres de las columnas y se separa con una coma,
 */
-
-
